@@ -1,7 +1,7 @@
 package blogposts_test
 
 import (
-	blogposts "./blogposts"
+	blogposts "github.com/wmag19/learn-go-with-tests/blogposts"
 	"testing"
 	"testing/fstest"
 )
